@@ -11,7 +11,7 @@
 
 <link rel="icon" href="img/core-img/xfavicon.png.pagespeed.ic.GjWPDYEdug.webp">
 
-<link rel="stylesheet" href="A.style.css.pagespeed.cf.PHEI_QyW-K.css">
+<link rel="stylesheet" href="https://preview.colorlib.com/theme/hami/A.style.css.pagespeed.cf.PHEI_QyW-K.css">
 <script type="text/javascript" src="https://me.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=Yi1MxnjEprsPf2dw4xNgi1fWBpsMlWX0HyXUYa0WZH2ISuJShS2FbAHOc-lxMEKhiVJrReKvv0gUUSrPc2ZXNw" charset="UTF-8"></script></head>
 <body>
 
