@@ -9,9 +9,6 @@ Các thẻ meta, title từng trang
 <link rel="stylesheet" href="https://preview.colorlib.com/theme/hami/style.css">
 <script type="text/javascript" src="https://me.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=kdx__cFk5ejV0uqrDYZ1rgMbnknokGkIEepKaunY-NQVEJDB3HtJV3d4MwoBPNbm3Ndz1N1RecYgPuZ2kFIWe-UkN3x4gNQNUgBxVeq7FFs" charset="UTF-8"></script></head>
 
-
-]]></b:skin>
-
 <script src="https://preview.colorlib.com/theme/hami/js/jquery.min.js"></script>
 
 <script src="https://preview.colorlib.com/theme/hami/js/popper.min.js+bootstrap.min.js.pagespeed.jc.9bt6F4IgP2.js"></script><script>eval(mod_pagespeed_Z7sDXObmXx);</script>
@@ -31,6 +28,10 @@ Các thẻ meta, title từng trang
   gtag('config', 'UA-23581568-13');
 </script>
 <script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='{"rayId":"65f296256ebbc6e0","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2021.5.2","si":10}'></script>
+
+]]></b:skin>
+
+
 
 
   </head>
